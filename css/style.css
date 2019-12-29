@@ -978,8 +978,11 @@ blockquote {
   transition: all 0.45s;
 }
 
-.text-green {
+.text-yellow {
   color: #DEDA00;
+}
+.text-fade{
+  color: #067041;
 }
 
 .text-left {
