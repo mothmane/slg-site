@@ -103,8 +103,9 @@
         slidesToShow: 6,
         slidesToScroll: 2,
         autoplay: true,
-        dots: false,
+        dots: true,
         arrows: false,
+        autoplaySpeed: 1000,
         responsive: [{
                 breakpoint: 1024,
                 settings: {
